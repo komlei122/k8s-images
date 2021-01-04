@@ -1,2 +1,2 @@
-FROM eipwork/kuboard-pv-browser:v1.0.1
+FROM quay.io/coreos/flannel:v0.12.0-amd64
 MAINTAINER likang<komlei122@163.com>
